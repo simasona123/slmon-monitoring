@@ -1,0 +1,2 @@
+2024-09-04 15:45:16 - DEBUG - Starting new HTTP connection (1): 36.92.49.116:8899
+2024-09-04 15:45:16 - DEBUG - http://36.92.49.116:8899 "GET /slmon2bali/data/slmon.all.laststatus.json HTTP/1.1" 200 691260
